@@ -6,5 +6,6 @@ public class git {
         System.out.println("w99");
         System.out.println("hot");
         System.out.println("hot22222");
+        System.out.println("hot----");
     }
 }
